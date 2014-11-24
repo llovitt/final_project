@@ -3,7 +3,7 @@
 	<head>
 		<style>
 		</style>
-			<link href='https://fonts.googleapis.com/css?family=Londrina+Shadow' rel='stylesheet' type='text/css'>
+			<link href='dist/css/bootstrap.css' rel='stylesheet'>
 	</head>
 	<body>
 		<h1>Cory's Coffeeshop</h1>
