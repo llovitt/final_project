@@ -7,5 +7,23 @@
 	</head>
 	<body>
 		<h1>Cory's Coffeeshop</h1>
+		<div class ="name">
+			<p>Here we'll have the coffeeshop name.</p>
+		</div>
+		<div class="header">
+			<p>Here we'll have a header image.</p>
+		</div>
+		<div class="blurb">
+			<p>Here we'll have a blurb about the shop.</p>
+		</div>
+		<div class="menu">
+			<p>Here we'll have the menu.</p>
+		</div>
+		<div class="order">
+			<p>Here we'll have the order form.</p>
+		</div>
+		<div class="testimonails">
+			<p>Here we'll have customer testimonials.</p>
+		</div>
 	</body>
 </html>
