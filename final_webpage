@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<style>
-		</style>
+		<title>Cory's Coffeeshop</title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
 			<link href='http://fonts.googleapis.com/css?family=Luckiest+Guy' rel='stylesheet' type='text/css'>
 			<link href='http://fonts.googleapis.com/css?family=Gloria+Hallelujah' rel='stylesheet' type='text/css'>
 			<link href='dist/css/bootstrap.css' rel='stylesheet'>
@@ -31,12 +31,10 @@
           			<li>
             		<a href="#order">Order</a>
           			</li>
-          			<li>
-            		<a href="#testimonials">Testimonials</a>
-          			</li>
-      		</div>
+          </div>
   		</nav>
 		<div class ="name">
+      <div class="container">
 			<div class="row">
 				<div class="col-sm-8">
 					<h1>Cory's Coffeeshop</h1>
@@ -52,22 +50,23 @@
       				</span>
     			</div>
 			</div>
-		</div>
-		<div id="header">
-			<p>Here we'll have a header image.</p>
-		</div>
+    </div>
+  </div>
 		<div id="blurb">
-			<p>Here we'll have a blurb about the shop.</p>
+		<p>Here we'll have a blurb about the shop.</p>
 		</div>
 		<div id="menu">
 			<h2>Menu</h2>
-			<p>If it's hot, wet, and comes in a cup, we'll bring it to you!</p>
-			<p>(Artfully scattered coffee beans not included)</p>
+			<p>If it's hot, wet, and comes in a cup, we'll bring it to you!<br />
+			   (Artfully scattered coffee beans not included)</p>
 			    <div class="row">
-      				<div class="col-sm-4">
-     					<img src='http://img1.etsystatic.com/000/0/5304521/il_fullxfull.145317441.jpg' class="img-circle center-block">
-     					<p>Mocha</p>
-	      		    </div>
+      				<div class="col-sm-4 image">
+                <img src="http://img1.etsystatic.com/000/0/5304521/il_fullxfull.145317441.jpg" class="img-circle center-block">
+                <div class="text">
+                      <p><small>Frothy milk, <br />sweet chocolate,<br /> dark coffee...</small></p>
+              </div>
+               <p class="caption">Mocha</p> 
+              </div>
     			<div class="col-sm-4 text-center">
       					<img src='http://3.bp.blogspot.com/_DEbU7Tw6OIk/S0NI5BJxF3I/AAAAAAAAAR0/ZpKjeD7VgWA/s320/caff%C3%A9-latte.jpg' class="img-circle center-block">
       					<p>Latte</p>
@@ -81,8 +80,5 @@
 		<div id="order">
 			<p>Here we'll have the order form.</p>
 		</div>
-		<div id="testimonials">
-			<p>Here we'll have customer testimonials.</p>
-		</div>
-	</body>
+		</body>
 </html>
