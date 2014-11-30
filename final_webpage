@@ -6,6 +6,7 @@
 			<link href='http://fonts.googleapis.com/css?family=Luckiest+Guy' rel='stylesheet' type='text/css'>
 			<link href='http://fonts.googleapis.com/css?family=Gloria+Hallelujah' rel='stylesheet' type='text/css'>
 			<link href='dist/css/bootstrap.css' rel='stylesheet'>
+      <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
 			<link href="final_webpage.css" rel="stylesheet" type="text/css">
 	</head>
 	<body>
@@ -60,20 +61,17 @@
 			<p>If it's hot, wet, and comes in a cup, we'll bring it to you!<br />
 			   (Artfully scattered coffee beans not included)</p>
 			    <div class="row">
-      				<div class="col-sm-4 image">
+      				<div class="col-sm-4">
                 <img src="http://img1.etsystatic.com/000/0/5304521/il_fullxfull.145317441.jpg" class="img-circle center-block">
-                <div class="text">
-                      <p><small>Frothy milk, <br />sweet chocolate,<br /> dark coffee...</small></p>
-              </div>
-               <p class="caption">Mocha</p> 
+               <p>Mocha - $2.99</p> 
               </div>
     			<div class="col-sm-4 text-center">
       					<img src='http://3.bp.blogspot.com/_DEbU7Tw6OIk/S0NI5BJxF3I/AAAAAAAAAR0/ZpKjeD7VgWA/s320/caff%C3%A9-latte.jpg' class="img-circle center-block">
-      					<p>Latte</p>
+      					<p>Latte - $2.50</p>
       		    </div>
     			<div class="col-sm-4">
     					<img src='http://4.bp.blogspot.com/_aUR7kLMsSOI/THGJAQPfEfI/AAAAAAAAA18/FncIE1wkkLo/s1600/we_no_speak_americano.jpg' class="img-circle center-block">
-    					<p>Americano</p>
+    					<p>Americano - priceless</p>
          		</div>
     			</div> 
 		</div>
