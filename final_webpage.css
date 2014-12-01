@@ -1,41 +1,56 @@
 body {
-	background-color:#333333;
-	background-image:url('http://wallpaperest.com/wallpapers/simple-dark-texture-ipad_216254.jpg');
-	color:white;
+    background-color:#333333;
+    background-image:url('http://wallpaperest.com/wallpapers/simple-dark-texture-ipad_216254.jpg');
+    color:white;
 }
 h1 {
-	padding:2em 0 0 0.5em;
-	color:white;
-	text-align: center;
-	font-family:'Luckiest Guy', cursive;
-	font-size:68px;
+    padding-top: 50px;
+    padding-left: 10px;
+    color:white;
+    font-family:'Luckiest Guy', cursive;
+    padding:2em 0 0 0.5em;
+    color:white;
+    text-align: center;
+    font-size:68px;
 }
 h2 {
-	padding:0.5em 0 0.5em 0;
-	font-family:'Luckiest Guy', cursive;
-	text-align:center;
-	font-size:50px;
+    padding:0.5em 0 0.5em 0;
+    font-family:'Luckiest Guy', cursive;
+    text-align:center;
+    font-size:50px;
 }
 h3 {
-	font-family: 'Gloria Hallelujah', cursive;
-	padding:0 0 2.5em 2.5em;
-	font-size:25px;
+    font-family: 'Gloria Hallelujah', cursive;
+    padding:0 0 2.5em 2.5em;
+    font-size:25px;
 }
 p {
-	text-align:center;
-	font-family: 'Gloria Hallelujah', cursive;
-	font-size:20px;
-	padding-bottom:1.5em;
+    text-align:center;
+    font-family: 'Gloria Hallelujah', cursive;
+    font-size:20px;
+    padding-bottom:1.5em;
 }
 .navbar-inverse {
-	background-color: rgba(139, 69, 19, 0.8);
+    background-color: rgba(139, 69, 19, 0.8);
 }
 .home {
   height: 42px;
   width: 50px;
   margin-top:-0.5em;
 }
-
+input{
+      border: 2;
+      border-color: gray;
+      padding: 5px;
+      font-size: 12px;
+      font-color: black;
+      font-family: helvetica;
+      width: 300px;
+    }
+input[type="submit"] {
+      background: gray;
+      color: white;
+    }
 @media (max-width:320px) { 
 .logo {
   height: 33px;
@@ -43,24 +58,24 @@ p {
 }
 }
 .name {
-	background-image:url('http://www.sprinklesandco.co.uk/wp-content/uploads/2014/02/coffeebeans.jpg');
-	color:white;
+    background-image:url('http://www.sprinklesandco.co.uk/wp-content/uploads/2014/02/coffeebeans.jpg');
+    color:white;
 }
 #blurb {
-	background-color:#993300;
-	color:white;
-}
-#menu {
-
+    background-color:#993300;
+    color:white;
+    padding-top: 20px;
 }
 #order {
-	background-color:#993300;
-	color:white;
+    background-color:#993300;
+    color:white;
+    text-align: center;
+    padding-top:20px;
 }
 .img-circle {
-	width:230px;
-	height:230px;
-	padding-bottom:1em;
+    width:230px;
+    height:230px;
+    padding-bottom:1em;
 }
 #social-buttons {
   margin-top:4em;

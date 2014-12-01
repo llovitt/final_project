@@ -54,7 +54,7 @@
     </div>
   </div>
 		<div id="blurb">
-		<p>Here we'll have a blurb about the shop.</p>
+<p>Welcome to Cory's Coffee! We specialize in great-tasting, ethically-sourced coffee to get you through your day.</p>
 		</div>
 		<div id="menu">
 			<h2>Menu</h2>
@@ -75,8 +75,13 @@
          		</div>
     			</div> 
 		</div>
-		<div id="order">
-			<p>Here we'll have the order form.</p>
-		</div>
+      <div id="order">
+            <p>Place your order now!</p>
+            <input type="name" placeholder="What's your name?"></br></br>
+            <input type="order" placeholder="What can we make you?"></br></br>
+            <input type="phone" placeholder="What's your number?"></br></br>
+            <input type="specifications" placeholder="Any specifications?"></br></br>
+            <input type="submit"></br></br>
+        </div>
 		</body>
 </html>
